@@ -1,0 +1,10 @@
+#App{
+    width: 20vw;
+    height: 20vh;
+    border: 2px solid black;
+    color: white;
+    background-color: violet;
+    text-align: center;
+    margin-top: 10px;
+    margin: auto;
+}
